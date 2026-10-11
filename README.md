@@ -1,3 +1,5 @@
+[![Dentistry Project](https://github.com/imkoyodev/Dentistry/actions/workflows/python-package.yml/badge.svg)](https://github.com/imkoyodev/Dentistry/actions/workflows/python-package.yml)
+
 # Dentistry
 Second practical workshop for the Programming II course of the Faculty of Sciences and Engineering
 
